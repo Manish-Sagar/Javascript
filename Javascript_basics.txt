@@ -1,0 +1,12 @@
+This document contains all the basic methods and commands of javsacript
+
+Comments
+
+// - Single line Comments
+/* */ - Mulitline Comments
+CONSOLE METHODS
+
+console.log("Jai Sri Ram") - Helps in printing the text in console.
+console.error("this is an eror") - Helps in printing an error in console
+console.warn("Warning") - Helps in printing a warning in console
+

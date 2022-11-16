@@ -1,0 +1,34 @@
+In JavaScipt we have two types of data types. They are
+1. Primitive data types
+2. Non Primitive
+
+
+Non Primitive dataypes: Object is the non primitve data type in JavaScript. Arrays and Functions in JS belong to object datatype.
+
+Object - Object is the keyvalue pair in JS. Objects are mutable.
+
+Arrays - Arrays is an object datatype. Array contains more than one value with a numerical index which starts from 0.
+    As said arrays are also objects that means they also will be stored as key value pairs in memory. Here the index will be key.
+    Arrays are heterogenous, that means we can declare both numbers and strings in a single array.
+Functions - Javascript doesn't have functions. All functions in JS are also objects. But when we try to get the type using typeof() we will get function type only. 
+
+Primitive dataypes: Primitive data types are the variables that refer to a single value
+
+We have six(6) different types of Primitive data types they are.
+
+1. Number - Can store integer, floating point valuem expponential value, NaN, infinity.
+    NaN results when we try to perform an operation on a number with a non numeric value
+    
+2. String - Stores any group of characters enclosed by single or double quotes or by backticks
+
+3. Boolean - Has only two datatypes true and false. Used to check condition
+
+4. Undefined - This means that a variable is not defined
+
+5. Null - This means that variable has no value. Null returns object as it's data type
+
+6. Symbol - This is the datatype in new es6. Defines a property of a object which is private to the object. 
+    This refers to the key in the object. Function Symbol() is used to create a new symbol.
+    Every symbol is unique, two symbols with same key are also not same.
+    Symbols are immutable
+

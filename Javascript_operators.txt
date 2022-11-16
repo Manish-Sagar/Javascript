@@ -1,0 +1,52 @@
+Jai Ganesha. 
+
+There are 6 types of operators in JS.
+
+1. Assignment 
+2. Arithmetic 
+3. Comparison
+4. Logical
+5. Conditional 
+6. Type 
+
+
+1. Assignment Operators: Used to assign a value to variable
+    "=" is the assignment operator 
+    Addition Assigment operator (+=)
+    Subraction Assignment operator (-=)
+    divison (/=)
+    Multiplication(*=)
+    modulus(%=)
+    expponential(**=)
+
+2. Arithmetic Operators: Used to perform arithmetic on numbers. 
+    We have 8 types of arithmetic operators
+    Addition(+), Subraction(-), Multiplication(*), Divison(/), expponential(**), modulus(%), increment(++) and decrement(--).
+    Addition operator is also used to concatenate strings. 
+    Adding a string and a number will result in a new concatenated string.
+
+3. Comparison Operators: Used to compare two variables
+    == compares value
+    === compares value and data type
+    != not equal value
+    !== not equal value and data type
+    >,<,>=,<=
+    ? ternary operator - variable name = condition ? truest : falsest
+
+4. Logical Operators: Used to determine logic between two values or variables
+    && - and (if both statements are true returns true else false)
+    || - or (if any one is true, results true)
+    ! - not(if true returns false, else returns true)
+
+5. Type Operators1: Used to know the datatype of variables or values
+    typeof() - gives the data type
+    instanceof() - returns true if object is an instance of an object type.
+
+6. Bitwise Operators: Bit operators work on 32 bits numbers. Any numeric operand in the operation is converted into a 32 bit number. The result is converted back to a JavaScript number.
+    & - bitwise and
+    | - or
+    ~ - not
+    ^ - XOR
+    << - left shift
+    >> - right shift
+    >>> unsigned right shift

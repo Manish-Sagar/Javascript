@@ -1,0 +1,6 @@
+Variables are containers which are used to store data values. Technical definition is named memoery location.
+
+We use key word "var" to create a Variables
+example -
+    var number1 = 100;
+    var name = "Manish Sagar";
